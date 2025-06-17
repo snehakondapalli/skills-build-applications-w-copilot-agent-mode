@@ -1,5 +1,38 @@
 # Build applications with GitHub Copilot agent mode
 
+# 🏋️‍♀️ OctoFit Tracker – Build Applications with GitHub Copilot Agent Mode
+
+This project demonstrates how to use **GitHub Copilot Agent Mode** to build a full-stack web application. The application, called **OctoFit Tracker**, simulates a fitness tracking app for a high school gym teacher, showcasing how Copilot can generate components based on natural language prompts.
+
+> 🚀 Built using GitHub Copilot Agent Mode + GPT-4o  
+> ⏱️ Duration: Less than 1 hour  
+> 🧠 Skill Level: Intermediate (Basic GitHub + Web Development)
+
+---
+
+## 📦 Project Overview
+
+### 🔧 What You'll Learn
+- How to enable and use **GitHub Copilot Agent Mode**  
+- How to prompt Copilot to generate code in **full stack development** environments  
+- How to switch between **GPT-4o** and other LLMs to compare results  
+
+### 🌐 What You’ll Build
+A web-based **Fitness Tracker App** for gym teachers, which:
+- Logs student workouts
+- Visualizes progress over time
+- Stores activity and performance data
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/snehakondapalli/skills-build-applications-w-copilot-agent-mode.git
+cd skills-build-applications-w-copilot-agent-mode
+
+
 <!-- ![](https://github.com/snehakondapalli/skills-build-applications-w-copilot-agent-mode/actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
 <img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
 
